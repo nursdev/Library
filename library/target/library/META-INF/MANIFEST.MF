@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Sensei Nurs
+Build-Jdk: Oracle OpenJDK version 11.0.14
+Implementation-Title: library
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.library
+Main-Class: ${start-class}
+
